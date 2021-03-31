@@ -1,1 +1,1 @@
-html-validate .
+html-validate.
